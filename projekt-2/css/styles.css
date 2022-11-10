@@ -11562,7 +11562,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background-image: url("...assets/img/Romkert.jpeg");
+  background: url("../img/maxresdefault.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11641,7 +11641,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background-image: url("img/alaprajz.jpg");
+  background-image: url("../img/PNTI-piktok-12.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
