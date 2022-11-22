@@ -1,3 +1,2 @@
 # Dave4554.github.io
-sziasztok ebben a videoban mivan a kezemben video lesz
-szarházi jézus borogasson te ppos koldus
+ Kretén szó jelentése: 1. Elkorcsosult (személy), akinek bizonyos természetű testi, szellemi, lelki alkati rendellenessége, illetve erkölcsi ...
